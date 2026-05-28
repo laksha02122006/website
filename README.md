@@ -1,9 +1,9 @@
 # Ex.07 Restaurant Website
-## Date:17/5/25
+## Date:28/05/26
 
-Name:- V.B.Laksha
+# Name:- V.B.Laksha
 
-Reg.no:-212224220051
+# Reg.no:-212224220051
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
